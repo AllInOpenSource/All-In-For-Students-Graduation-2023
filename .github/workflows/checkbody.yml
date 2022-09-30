@@ -10,8 +10,8 @@ jobs:
         uses: JJ/github-pr-contains-action@releases/v4
         with:
           github-token: ${{github.token}}
-          bodyContains: "Name:"
+          bodyContains: ""
           bodyDoesNotContain: ""
-          diffContains: ""
+          diffContains: "Name:"
           filesChanged: 1
           linesChanged: 4
