@@ -14,4 +14,4 @@ jobs:
           bodyDoesNotContain: ""
           diffContains: "Name:"
           filesChanged: 1
-          linesChanged: 5
+          linesChanged: 4
