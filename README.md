@@ -12,9 +12,7 @@ Please review the requirements for graduation in the [All In for Students 2023 r
 
 ## How to join the Class of 2023 Yearbook
 
-### By issuing a pull request to this repository, you can request to be added to the Class of 2023 yearbook and receive your graduation swag.
-
-Here are two required steps to receive your All In graduation present and officially be recognized as a participant of the All In for Students Class of 2023.
+Here are two required steps to officially be recognized as a participant of the All In for Students Class of 2023.
 
 1. Save the date (_coming soon_ 🥳)
 2. Add your name, school, and favorite quote to the README.md following the format below. Don't forget to add the 3 dashes below to separate your name from the other students.
