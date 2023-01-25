@@ -38,6 +38,8 @@ As our guests of honor, please be sure to invite your friends, family, and loved
 Contact - students@allinopensource.org
 
 ## List of students
-Name: Fake Student
-School: Fake School
-Favorite Quote: Fake Quote
+---
+- Name: Fake Student
+- School: Fake School
+- Favorite Quote: Fake Quote
+---
