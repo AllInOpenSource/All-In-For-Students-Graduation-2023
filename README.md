@@ -39,7 +39,7 @@ Contact - students@allinopensource.org
 
 ## List of students
 ---
-- Name: Fake Student
-- School: Fake School
-- Favorite Quote: Fake Quote
+
+- School: University of Port Harcourt
+- Favorite Quote: "Shine like a Star"
 ---
