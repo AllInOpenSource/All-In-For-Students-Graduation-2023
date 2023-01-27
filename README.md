@@ -39,7 +39,7 @@ Contact - students@allinopensource.org
 
 ## List of students
 ---
-- Name: Fake Student
-- School: Fake School
-- Favorite Quote: Fake Quote
+- Name: Nana Boateng Amoah
+- School: Whitworth University
+- Favorite Quote: Sic Parvis Magna ( Greatness from small begninings )
 ---
