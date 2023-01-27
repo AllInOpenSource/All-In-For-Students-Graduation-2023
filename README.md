@@ -23,6 +23,10 @@ Here are two required steps to officially be recognized as a participant of the 
 _**Submissions are due Friday, March 31, 2023.**_ 
     
 ---
+ - Name: Nana Boateng Amoah
+ - School: Whitworth University
+ - Favorite Quote: Sic Parvis Magna ( Greatness from small begninings )
+---
 
 ## Graduation Day 🎓
 
@@ -38,8 +42,4 @@ As our guests of honor, please be sure to invite your friends, family, and loved
 Contact - students@allinopensource.org
 
 ## List of students
----
-- Name: Nana Boateng Amoah
-- School: Whitworth University
-- Favorite Quote: Sic Parvis Magna ( Greatness from small begninings )
----
+
