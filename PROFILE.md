@@ -1,3 +1,0 @@
--Emily Marie Ahtúnan 
--Champlain College, Burlington Vermont
--“Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
