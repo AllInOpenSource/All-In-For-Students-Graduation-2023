@@ -52,3 +52,7 @@ Contact - students@allinopensource.org
 - Name: Taahj Sawyers
 - School: University of Texas at El Paso
 - Favorite Quote: "Love the life you live. Live the life you love." - Bob Marley
+---
+- Name: Daniel Rivera
+- School: Miami Dade College
+- Favorite Quote: "Every strike brings me closer to the next home run." - Babe Ruth
