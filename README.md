@@ -60,4 +60,4 @@ Contact - students@allinopensource.org
 ---
 - Name: Takudzwa Modza
 - School: Alabama State University 
-- Favorite Quote: "Confine yourself to the present", Marcus Aurelius
+- Favorite Quote: "It is theresponsibility of leadership to work intelligently with what is given, and not waste time fantasizing about a world of flawless people and perfect choices", Marcus Aurelius
