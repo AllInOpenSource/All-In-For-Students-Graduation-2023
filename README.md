@@ -56,3 +56,8 @@ Contact - students@allinopensource.org
 - Name: Daniel Rivera
 - School: Miami Dade College
 - Favorite Quote: "Every strike brings me closer to the next home run." - Babe Ruth
+
+---
+Name: Takudzwa Modza
+School: Alabama State University 
+Favorite Quote: "Confine yourself to the present", Marcus Aurelius
