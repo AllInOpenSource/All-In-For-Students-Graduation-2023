@@ -61,3 +61,8 @@ Contact - students@allinopensource.org
 - Name: Takudzwa Modza
 - School: Alabama State University 
 - Favorite Quote: "It is the responsibility of leadership to work intelligently with what is given, and not waste time fantasizing about a world of flawless people and perfect choices", Marcus Aurelius
+
+---
+-Name: Humaira Tasnim
+-School: Wayne State University
+-Favorite Quote: “Be the change that you wish to see in the world”, Mahatma Gandhi
