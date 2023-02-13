@@ -66,7 +66,6 @@ Contact - students@allinopensource.org
 - Name: Humaira Tasnim
 - School: Wayne State University
 - Favorite Quote: "Be the change that you wish to see in the world", Mahatma Gandhi
-
 ---
 - Name: Jorge Ortiz
 - School: University Of Puerto Rico Mayaguez
