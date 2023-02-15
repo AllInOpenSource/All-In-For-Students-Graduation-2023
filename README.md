@@ -74,3 +74,7 @@ Contact - students@allinopensource.org
 - Name: Jennifer Lundy
 - School: The University of West Georgia
 - Favorite Quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." -James Cameron
+---
+- Name: Kidd Chang
+- School: Wayne State University
+- Favorite Quote: "If you can get 1% better each day for one year, you’ll end up 37 times better by the time you’re done." -James Clear
