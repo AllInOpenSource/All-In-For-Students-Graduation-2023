@@ -70,3 +70,7 @@ Contact - students@allinopensource.org
 - Name: Jorge Ortiz
 - School: University Of Puerto Rico Mayaguez
 - Favorite Quote: "Wealth consists not in having great possessions, but in having few wants." - Epictetus
+---
+- Name: Jennifer Lundy
+- School: The University of West Georgia
+- Favorite Quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." -James Cameron
