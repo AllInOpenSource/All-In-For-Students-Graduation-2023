@@ -74,3 +74,7 @@ Contact - students@allinopensource.org
 - Name: Jennifer Lundy
 - School: The University of West Georgia
 - Favorite Quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." -James Cameron
+---
+- Name: Fei Lin
+- School: CUNY Brooklyn College
+- Favorite Quote: "whatever you do, do it 100%. When you work, work. When you laugh, laugh. When you eat, eat like it's your last meal." - Tony Lip
