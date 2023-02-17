@@ -78,3 +78,8 @@ Contact - students@allinopensource.org
 - Name: Kidd Chang
 - School: Wayne State University
 - Favorite Quote: "If you can get 1% better each day for one year, you’ll end up 37 times better by the time you’re done." -James Clear
+---
+- Name: Fei Lin
+- School: CUNY Brooklyn College
+- Favorite Quote: "whatever you do, do it 100%. When you work, work. When you laugh, laugh. When you eat, eat like it's your last meal." - Tony Lip
+
