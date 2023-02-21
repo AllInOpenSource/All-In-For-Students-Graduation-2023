@@ -82,4 +82,9 @@ Contact - students@allinopensource.org
 - Name: Fei Lin
 - School: CUNY Brooklyn College
 - Favorite Quote: "whatever you do, do it 100%. When you work, work. When you laugh, laugh. When you eat, eat like it's your last meal." - Tony Lip
+---
+- Name: Gyanateet Dutta
+- School: Kalinga Institute of Industrial Technology(KIIT University)
+- Favorite Quote: "Deep reinforcement learning is like teaching a dog to do a backflip, but with a lot more math and fewer treats."
+- 
 
