@@ -82,4 +82,8 @@ Contact - students@allinopensource.org
 - Name: Fei Lin
 - School: CUNY Brooklyn College
 - Favorite Quote: "whatever you do, do it 100%. When you work, work. When you laugh, laugh. When you eat, eat like it's your last meal." - Tony Lip
+---
+- Name: Claudia Lancha Blanco
+- School: Miami Dade College
+- Favorite Quote: “Don’t wait. The time will never be just right.” - Napoleon Hillf
 
