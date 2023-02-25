@@ -86,5 +86,5 @@ Contact - students@allinopensource.org
 - Name: Gyanateet Dutta
 - School: Kalinga Institute of Industrial Technology(KIIT University)
 - Favorite Quote: "Deep reinforcement learning is like teaching a dog to do a backflip, but with a lot more math and fewer treats."
-- 
+---
 
