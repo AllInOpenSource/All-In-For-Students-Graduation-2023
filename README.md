@@ -86,4 +86,8 @@ Contact - students@allinopensource.org
 - Name: Claudia Lancha Blanco
 - School: Miami Dade College
 - Favorite Quote: “Don’t wait. The time will never be just right.” - Napoleon Hillf
+---
+- Name: Gyanateet Dutta
+- School: KIIT University 
+- Favorite Quote: "The way positive reinforcement is carried out is more important than the amount." - B.F. Skinner
 
