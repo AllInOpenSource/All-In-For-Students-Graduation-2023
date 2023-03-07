@@ -86,4 +86,8 @@ Contact - students@allinopensource.org
 - Name: Claudia Lancha Blanco
 - School: Miami Dade College
 - Favorite Quote: “Don’t wait. The time will never be just right.” - Napoleon Hillf
+- ---
+- Name: Cristina Genao
+- School: Miami Dade College
+- Favorite Quote: "I think being able to dive into things head first is a talent in and of itself." - Shinsuke Kita 
 
