@@ -94,3 +94,7 @@ Contact - students@allinopensource.org
 - Name: Poll Chowdhury
 - School: Wayne State University
 - Favorite Quote: “You must be the change you wish to see in the world.” – Mahatma Gandhi
+- ---
+- Name: Jeremiah Albert (Jerry) Ortega
+- School: University of California, Los Angeles (UCLA)
+- Favorite Quote: “No matter how difficult the challenge is, always stay positive and believe in yourself." - Kobe Bryant
