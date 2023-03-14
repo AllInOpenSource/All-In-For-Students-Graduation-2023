@@ -91,6 +91,6 @@ Contact - students@allinopensource.org
 - School: Miami Dade College
 - Favorite Quote: "I think being able to dive into things head first is a talent in and of itself." - Shinsuke Kita 
 - ---
-- Name: Poll
-- School: Wayne State 
+- Name: Poll Chowdhury
+- School: Wayne State University
 - Favorite Quote: “You must be the change you wish to see in the world.”
