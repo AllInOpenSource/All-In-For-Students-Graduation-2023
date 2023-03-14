@@ -93,4 +93,4 @@ Contact - students@allinopensource.org
 - ---
 - Name: Poll Chowdhury
 - School: Wayne State University
-- Favorite Quote: “You must be the change you wish to see in the world.”
+- Favorite Quote: “You must be the change you wish to see in the world.” – Mahatma Gandhi
