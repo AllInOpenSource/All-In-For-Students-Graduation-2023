@@ -93,4 +93,4 @@ Contact - students@allinopensource.org
 - ---
 - Name: Poll Chowdhury
 - School: Wayne State University
-- Favorite Quote: “You must be the change you wish to see in the world.” – Mahatma Gandhi
+- Favorite Quote: “The way to get started is to quit talking and begin doing.” – Walt Disney
