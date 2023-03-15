@@ -47,8 +47,8 @@ Contact - students@allinopensource.org
 - Name: Emily Marie Ahtúnan
 - School: Champlain College
 - Favorite Quote: “Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
----
 
+---
 - Name: Taahj Sawyers
 - School: University of Texas at El Paso
 - Favorite Quote: "Love the life you live. Live the life you love." - Bob Marley
@@ -86,15 +86,15 @@ Contact - students@allinopensource.org
 - Name: Claudia Lancha Blanco
 - School: Miami Dade College
 - Favorite Quote: “Don’t wait. The time will never be just right.” - Napoleon Hillf
----
+- ---
 - Name: Cristina Genao
 - School: Miami Dade College
 - Favorite Quote: "I think being able to dive into things head first is a talent in and of itself." - Shinsuke Kita 
----
+- ---
 - Name: Poll Chowdhury
 - School: Wayne State University
 - Favorite Quote: “You must be the change you wish to see in the world.” – Mahatma Gandhi
----
+- ---
 - Name: Jeremiah Albert (Jerry) Ortega
 - School: University of California, Los Angeles (UCLA)
 - Favorite Quote: “No matter how difficult the challenge is, always stay positive and believe in yourself." - Kobe Bryant
