@@ -42,11 +42,13 @@ Contact - students@allinopensource.org
 - Name: Nana Boateng Amoah
 - School: Whitworth University
 - Favorite Quote: Sic Parvis Magna ( Greatness from Small beginnings )
+
 ---
 - Name: Emily Marie Ahtúnan
 - School: Champlain College
 - Favorite Quote: “Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
 ---
+
 - Name: Taahj Sawyers
 - School: University of Texas at El Paso
 - Favorite Quote: "Love the life you live. Live the life you love." - Bob Marley
@@ -54,10 +56,12 @@ Contact - students@allinopensource.org
 - Name: Daniel Rivera
 - School: Miami Dade College
 - Favorite Quote: "Every strike brings me closer to the next home run." - Babe Ruth
+
 ---
 - Name: Takudzwa Modza
 - School: Alabama State University 
 - Favorite Quote: "It is the responsibility of leadership to work intelligently with what is given, and not waste time fantasizing about a world of flawless people and perfect choices", Marcus Aurelius
+
 ---
 - Name: Humaira Tasnim
 - School: Wayne State University
