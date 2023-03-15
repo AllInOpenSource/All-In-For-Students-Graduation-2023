@@ -42,12 +42,10 @@ Contact - students@allinopensource.org
 - Name: Nana Boateng Amoah
 - School: Whitworth University
 - Favorite Quote: Sic Parvis Magna ( Greatness from Small beginnings )
-
 ---
 - Name: Emily Marie Ahtúnan
 - School: Champlain College
 - Favorite Quote: “Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
-
 ---
 - Name: Taahj Sawyers
 - School: University of Texas at El Paso
@@ -56,12 +54,10 @@ Contact - students@allinopensource.org
 - Name: Daniel Rivera
 - School: Miami Dade College
 - Favorite Quote: "Every strike brings me closer to the next home run." - Babe Ruth
-
 ---
 - Name: Takudzwa Modza
 - School: Alabama State University 
 - Favorite Quote: "It is the responsibility of leadership to work intelligently with what is given, and not waste time fantasizing about a world of flawless people and perfect choices", Marcus Aurelius
-
 ---
 - Name: Humaira Tasnim
 - School: Wayne State University
@@ -86,15 +82,20 @@ Contact - students@allinopensource.org
 - Name: Claudia Lancha Blanco
 - School: Miami Dade College
 - Favorite Quote: “Don’t wait. The time will never be just right.” - Napoleon Hillf
-- ---
+---
 - Name: Cristina Genao
 - School: Miami Dade College
 - Favorite Quote: "I think being able to dive into things head first is a talent in and of itself." - Shinsuke Kita 
-- ---
+---
 - Name: Poll Chowdhury
 - School: Wayne State University
 - Favorite Quote: “You must be the change you wish to see in the world.” – Mahatma Gandhi
-- ---
+---
 - Name: Jeremiah Albert (Jerry) Ortega
 - School: University of California, Los Angeles (UCLA)
 - Favorite Quote: “No matter how difficult the challenge is, always stay positive and believe in yourself." - Kobe Bryant
+---
+- Name: Justin Lee
+- School: Western Governors University
+- Favorite Quote: "If you don’t share someone’s pain, you can never understand them." - Pain from Naruto: Shippuden
+---
