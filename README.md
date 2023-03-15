@@ -98,3 +98,7 @@ Contact - students@allinopensource.org
 - Name: Jeremiah Albert (Jerry) Ortega
 - School: University of California, Los Angeles (UCLA)
 - Favorite Quote: “No matter how difficult the challenge is, always stay positive and believe in yourself." - Kobe Bryant
+---
+- Name: Justin Lee
+- School: Western Governors University
+- Favorite Quote: "If you don’t share someone’s pain, you can never understand them." - Pain from Naruto: Shippuden
