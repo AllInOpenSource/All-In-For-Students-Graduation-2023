@@ -102,3 +102,7 @@ Contact - students@allinopensource.org
 - Name: Justin Lee
 - School: Western Governors University
 - Favorite Quote: "If you don’t share someone’s pain, you can never understand them." - Pain from Naruto: Shippuden
+---
+- Name: Nathan Race
+- School: Wayne State University
+- Favorite Quote: "Because you are alive, everything is possible." Thich Nhat Hanh
