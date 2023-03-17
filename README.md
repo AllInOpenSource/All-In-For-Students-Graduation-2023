@@ -39,6 +39,10 @@ Contact - students@allinopensource.org
 
 ## List of students
 ---
+- Name: Seohyeon Lee
+- School: Pomona College
+- Favorite Quote: Nobody starts perfect. 
+---
 - Name: Nana Boateng Amoah
 - School: Whitworth University
 - Favorite Quote: Sic Parvis Magna ( Greatness from Small beginnings )
