@@ -110,3 +110,7 @@ Contact - students@allinopensource.org
 - Name: Ashkan Arabi
 - School: the University of Texas at El Paso
 - Favorite Quote: Over time, grit is what separates fruitful lives from aimlessness. -John Ortberg
+---
+- Name: Carlos Guzman
+- School: Miami Dade College
+- Favorite Quote: “Easy choices, hard life. Hard choices, easy life.” -Jerzy Gregorek
