@@ -106,3 +106,7 @@ Contact - students@allinopensource.org
 - Name: Nathan Race
 - School: Wayne State University
 - Favorite Quote: "Because you are alive, everything is possible." Thich Nhat Hanh
+---
+- Name: Ashkan Arabi
+- School: the University of Texas at El Paso
+- Favorite Quote: Over time, grit is what separates fruitful lives from aimlessness. -John Ortberg
