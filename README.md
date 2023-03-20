@@ -110,3 +110,8 @@ Contact - students@allinopensource.org
 - Name: Carlos Guzman
 - School: Miami Dade College
 - Favorite Quote: “Easy choices, hard life. Hard choices, easy life.” -Jerzy Gregorek
+---
+- Name: Emily Marie Ahtúnan
+- School: Champlain College
+- Favorite Quote: “Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
+---
