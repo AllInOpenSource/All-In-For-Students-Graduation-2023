@@ -44,11 +44,7 @@ Contact - students@allinopensource.org
 - Favorite Quote: Sic Parvis Magna ( Greatness from Small beginnings )
 
 ---
-- Name: Emily Marie Ahtúnan
-- School: Champlain College
-- Favorite Quote: “Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
 
----
 - Name: Taahj Sawyers
 - School: University of Texas at El Paso
 - Favorite Quote: "Love the life you live. Live the life you love." - Bob Marley
