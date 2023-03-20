@@ -39,16 +39,16 @@ Contact - students@allinopensource.org
 
 ## List of students
 ---
+- Name: Seohyeon Lee
+- School: Pomona College
+- Favorite Quote: Nobody starts perfect. 
+---
 - Name: Nana Boateng Amoah
 - School: Whitworth University
 - Favorite Quote: Sic Parvis Magna ( Greatness from Small beginnings )
 
 ---
-- Name: Emily Marie Ahtúnan
-- School: Champlain College
-- Favorite Quote: “Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
 
----
 - Name: Taahj Sawyers
 - School: University of Texas at El Paso
 - Favorite Quote: "Love the life you live. Live the life you love." - Bob Marley
@@ -94,5 +94,33 @@ Contact - students@allinopensource.org
 - Name: Gyanateet Dutta
 - School: KIIT University 
 - Favorite Quote: "The way positive reinforcement is carried out is more important than the amount." - B.F. Skinner
+---
+- Name: Poll Chowdhury
+- School: Wayne State University
+- Favorite Quote: “You must be the change you wish to see in the world.” – Mahatma Gandhi
+---
+- Name: Jeremiah Albert (Jerry) Ortega
+- School: University of California, Los Angeles (UCLA)
+- Favorite Quote: “No matter how difficult the challenge is, always stay positive and believe in yourself." - Kobe Bryant
+---
+- Name: Justin Lee
+- School: Western Governors University
+- Favorite Quote: "If you don’t share someone’s pain, you can never understand them." - Pain from Naruto: Shippuden
+---
+- Name: Nathan Race
+- School: Wayne State University
+- Favorite Quote: "Because you are alive, everything is possible." Thich Nhat Hanh
+---
+- Name: Ashkan Arabi
+- School: the University of Texas at El Paso
+- Favorite Quote: Over time, grit is what separates fruitful lives from aimlessness. -John Ortberg
+---
+- Name: Carlos Guzman
+- School: Miami Dade College
+- Favorite Quote: “Easy choices, hard life. Hard choices, easy life.” -Jerzy Gregorek
+---
+- Name: Emily Marie Ahtúnan
+- School: Champlain College
+- Favorite Quote: “Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
 ---
 
