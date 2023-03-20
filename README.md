@@ -123,8 +123,9 @@ Contact - students@allinopensource.org
 - School: Champlain College
 - Favorite Quote: “Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
 ---
--Name: Mandlenkosi Sibanda
--School: Alabama State University
--Favorite Quote: "We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard,....." -President John F. Kennedy
+- Name: Mandlenkosi Sibanda
+- School: Alabama State University
+- Favorite Quote: "We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard,....." -President John F. Kennedy
 ---
+-
 
