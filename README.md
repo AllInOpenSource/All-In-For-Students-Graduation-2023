@@ -142,3 +142,7 @@ Contact - students@allinopensource.org
 - School: Miami Dade College
 - Favorite Quote: "The present beauty of life is dependent on yesterday's learned lessons, tomorrow's hope is the reflection of today's changes."-Lousindy Mitton
 ---
+- Name: Brennen Collins
+- School: Baton Rouge Community College
+- Favorite Quote: "But are you a different animal, and the same beast?" - Kobe Bryant
+---
