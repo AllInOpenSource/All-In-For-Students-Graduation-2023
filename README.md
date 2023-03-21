@@ -48,7 +48,6 @@ Contact - students@allinopensource.org
 - Favorite Quote: Sic Parvis Magna ( Greatness from Small beginnings )
 
 ---
-
 - Name: Taahj Sawyers
 - School: University of Texas at El Paso
 - Favorite Quote: "Love the life you live. Live the life you love." - Bob Marley
@@ -135,4 +134,7 @@ Contact - students@allinopensource.org
 - School: The University of Kansas
 - Favorite Quote: “Everything will be okay in the end. If it's not okay, it's not the end.” -John Lennon
 ---
-
+- Name: Lousindy Mitton
+- School: Miami Dade College
+- Favorite Quote: "The present beauty of life is dependent on yesterday's learned lessons, tomorrow's hope is the reflection of today's changes."-Lousindy Mitton
+---
