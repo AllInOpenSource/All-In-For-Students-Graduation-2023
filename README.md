@@ -131,5 +131,8 @@ Contact - students@allinopensource.org
 - School: St. Petersburg College
 - Favorite Quote: "In order to be irreplaceable one must always be different" -Coco Chanel
 ---
--
+- Name: Cody Duong
+- School: The University of Kansas
+- Favorite Quote: “Everything will be okay in the end. If it's not okay, it's not the end.” -John Lennon
+---
 
