@@ -131,5 +131,9 @@ Contact - students@allinopensource.org
 - School: St. Petersburg College
 - Favorite Quote: "In order to be irreplaceable one must always be different" -Coco Chanel
 ---
+- Name: Lousindy Mitton
+- School: Miami Dade College
+- Favorite Quote: "The present beauty of life is dependent on yesterday's learned lessons, tomorrow's hope is the reflection of today's changes."-Lousindy Mitton
+---
 -
 
