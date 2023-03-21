@@ -127,5 +127,9 @@ Contact - students@allinopensource.org
 - School: Alabama State University
 - Favorite Quote: "We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard,....." -President John F. Kennedy
 ---
+- Name: Jeanette Gonzalez
+- School: St. Petersburg College
+- Favorite Quote: "In order to be irreplaceable one must always be different" -Coco Chanel
+---
 -
 
