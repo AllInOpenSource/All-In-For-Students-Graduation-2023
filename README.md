@@ -114,6 +114,10 @@ Contact - students@allinopensource.org
 - School: the University of Texas at El Paso
 - Favorite Quote: Over time, grit is what separates fruitful lives from aimlessness. -John Ortberg
 ---
+- Name: Ajay Deshmukh
+- School: SGGS College
+- Favorite Quote: "In real open source, you have the right to control your own destiny."-Linus Torvalds
+---
 - Name: Carlos Guzman
 - School: Miami Dade College
 - Favorite Quote: “Easy choices, hard life. Hard choices, easy life.” -Jerzy Gregorek
