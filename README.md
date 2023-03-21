@@ -146,3 +146,7 @@ Contact - students@allinopensource.org
 - School: Baton Rouge Community College
 - Favorite Quote: "But are you a different animal, and the same beast?" - Kobe Bryant
 ---
+- Name: Caroline Haoud
+- School: Columbia College, Columbia University in the City of New York
+- Favorite Quote: “You have to have a habitual vision of greatness … you have to believe in fact that you will refuse to settle for mediocrity. You won’t confuse your financial security with your personal integrity, you won’t confuse your success with your greatness or your prosperity with your magnanimity … believe in fact that living is connected to giving.” - Dr. Cornel West
+---
