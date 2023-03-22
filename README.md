@@ -158,3 +158,7 @@ Contact - students@allinopensource.org
 - School: Hunter College
 - Favorite Quote: "If you never ask, the answer is always no" - Nora Roberts
 ---
+- Name: Gabriela Muriel
+- School: University of Florida
+- Favorite Quote: "If you only do what you can do, you will never be more than you are now." - Master Shifu
+---
