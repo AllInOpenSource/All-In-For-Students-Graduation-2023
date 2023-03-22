@@ -154,3 +154,7 @@ Contact - students@allinopensource.org
 - School: School of General Studies, Columbia University in the City of New York
 - Favorite Quote: "Education is not preparation for life; education is life itself" - John Dewey
 ---
+- Name: Kathleen Haoud
+- School: Hunter College
+- Favorite Quote: "If you never ask, the answer is always no" - Nora Roberts
+---
