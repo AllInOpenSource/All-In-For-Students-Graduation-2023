@@ -1,7 +1,7 @@
 # All-In-for-Students-2023-Graduates
 
 ## Instructions for All In 2023 Graduates
-By issuing a pull request to this repository, you can request to be added to the Class of 2022 Yearbook.
+By issuing a pull request to this repository, you can request to be added to the Class of 2023 Yearbook.
 
 ## Privacy Notice 👀
 Consider that all the information that you add to this repository will be publicly available.
