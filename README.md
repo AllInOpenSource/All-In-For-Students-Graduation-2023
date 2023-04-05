@@ -170,3 +170,7 @@ Contact - students@allinopensource.org
 - School: Campbell University
 - Favorite Quote: "Feel the fear and do it anyway" - Susan Jeffers
 ---
+- Name: Amrita Dhar
+- School: Wayne State University
+- Favorite Quote: "Let us make our future now, and let us make our dreams tomorrow’s reality." - Malala Yousafzai
+---
