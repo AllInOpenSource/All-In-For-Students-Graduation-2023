@@ -166,3 +166,7 @@ Contact - students@allinopensource.org
 - School: Campbell University
 - Favorite Quote: "Feel the fear and do it anyway" - Susan Jeffers
 ---
+- Name: Keren Rivera
+- School: Miami Dade College
+- Favorite Quote: "When you fall, don't stay on ground. Pick yourself up and keep going" - My father
+---
