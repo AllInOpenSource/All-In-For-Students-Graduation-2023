@@ -170,3 +170,7 @@ Contact - students@allinopensource.org
 - School: Campbell University
 - Favorite Quote: "Feel the fear and do it anyway" - Susan Jeffers
 ---
+- Name: Richard Trinh
+- School: Colby College
+- Favorite Quote: "However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking
+---
