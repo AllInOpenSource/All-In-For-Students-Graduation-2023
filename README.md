@@ -174,3 +174,7 @@ Contact - students@allinopensource.org
 - School: Wayne State University
 - Favorite Quote: "Let us make our future now, and let us make our dreams tomorrow’s reality." - Malala Yousafzai
 ---
+- Name: Richard Trinh
+- School: Colby College
+- Favorite Quote: "However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking
+---
