@@ -1,0 +1,17 @@
+name: "Checks PR body and payload"
+on:
+  pull_request:
+    types: [opened, edited, ready_for_review, synchronize]
+jobs:
+  check_pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check PR
+        uses: JJ/github-pr-contains-action@releases/v4
+        with:
+          github-token: ${{github.token}}
+          bodyContains: "In this pull request, I've added"
+          bodyDoesNotContain: ""
+          diffContains: "Name:"
+          filesChanged: 1
+          linesChanged: 4
