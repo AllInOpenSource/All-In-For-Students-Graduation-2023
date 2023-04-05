@@ -166,3 +166,7 @@ Contact - students@allinopensource.org
 - School: Campbell University
 - Favorite Quote: "Feel the fear and do it anyway" - Susan Jeffers
 ---
+- Name: Emily Marie Ahtúnan
+- School: Champlain College
+- Favorite Quote: “Find something that matters deeply to you and pursue it. Question. Stand. Speak. Act. Make us uncomfortable. Make us think.” Terry Tempest Williams
+---
