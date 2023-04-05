@@ -166,7 +166,7 @@ Contact - students@allinopensource.org
 - School: Houston Community College
 - Favorite Quote: "The expert at anything was once a beginner" - Helen Hayes
 ---
-- Name: Anthony Ham
-- School: Miami Dade College
-- Favorite Quote: "A man who dares to waste one hour of time has not discovered the value of life." - Charles Darwin
+- Name: Benjamin Saucedo
+- School: Campbell University
+- Favorite Quote: "Feel the fear and do it anyway" - Susan Jeffers
 ---
