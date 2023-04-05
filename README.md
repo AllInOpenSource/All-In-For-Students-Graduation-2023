@@ -174,3 +174,8 @@ Contact - students@allinopensource.org
 - School: Colby College
 - Favorite Quote: "However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking
 ---
+- Name: Ronaldo Garcia Sevilla
+- School: Miami Dade College
+- Favorite Quote:"I'm a greater believer in luck, and I find the harder I work the more I have of it." - Thomas Jefferson
+---
+
