@@ -209,3 +209,7 @@ Contact - students@allinopensource.org
 - Name: Sheyla Williams Avila
 - School: University of California - Merced
 - Quote: "Never stop learning because life never stops teaching" - Kirill Korshikov
+---
+- Name: Marcos A Ferrero
+- School: Miami Dade College
+- Favorite Quote: "Everyone should learn how to code, because it teaches you how to think." - Steve Jobs
