@@ -217,3 +217,7 @@ Contact - students@allinopensource.org
 - Name: Annabelle Delacruz
 - School: Miami Dade College
 - Favorite Quote: The grass isn't always greener on the other side
+---
+- Name: Parth Sharma
+- School: University of Texas At Arlington
+- Favorite Quote: If you never shoot, you never miss
