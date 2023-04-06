@@ -178,4 +178,6 @@ Contact - students@allinopensource.org
 - School: Miami Dade College
 - Favorite Quote:"I'm a greater believer in luck, and I find the harder I work the more I have of it." - Thomas Jefferson
 ---
-
+- Name: Anthony Ham
+- School: Miami Dade College
+- Favorite Quote: "A man who dares to waste one hour of time has not discovered the value of life." - Charles Darwin
