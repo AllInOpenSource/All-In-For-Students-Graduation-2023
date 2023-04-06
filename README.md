@@ -181,3 +181,8 @@ Contact - students@allinopensource.org
 - Name: Anthony Ham
 - School: Miami Dade College
 - Favorite Quote: "A man who dares to waste one hour of time has not discovered the value of life." - Charles Darwin
+---
+- Name: Donte Palmer
+- School: Clark Atlanta University
+- Favorite Quote: "One one cocoa full basket"
+---
