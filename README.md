@@ -213,3 +213,7 @@ Contact - students@allinopensource.org
 - Name: Marcos A Ferrero
 - School: Miami Dade College
 - Favorite Quote: "Everyone should learn how to code, because it teaches you how to think." - Steve Jobs
+---
+- Name: Annabelle Delacruz
+- School: Miami Dade College
+- Favorite Quote: The grass isn't always greener on the other side
