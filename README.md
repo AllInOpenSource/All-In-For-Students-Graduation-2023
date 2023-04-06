@@ -202,3 +202,7 @@ Contact - students@allinopensource.org
 - School: Wayne State University
 - Favorite Quote: "Let us make our future now, and let us make our dreams tomorrow’s reality." - Malala Yousafzai
 ---
+- Name: Regine L
+- School: Florida Atlantic University
+- Favorite Quote: "Practice isn't the thing you do once you're good. It's the thing you do that makes you good." - Malcolm Gladwell
+---
