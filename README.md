@@ -217,3 +217,7 @@ Contact - students@allinopensource.org
 - Name: Annabelle Delacruz
 - School: Miami Dade College
 - Favorite Quote: The grass isn't always greener on the other side
+---
+- Name: Kadisha Mitchell
+- School: Howard University
+- Favorite Quote: "Habits are the Compound Interest of Self Improvement." -James Clear
