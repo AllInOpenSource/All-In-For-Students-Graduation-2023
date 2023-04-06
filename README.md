@@ -178,4 +178,6 @@ Contact - students@allinopensource.org
 - School: Miami Dade College
 - Favorite Quote:"I'm a greater believer in luck, and I find the harder I work the more I have of it." - Thomas Jefferson
 ---
-
+- Name: Garrett Floyd
+- School: Miami Dade College
+- Favorite Quote: "Better late than Never!"
