@@ -206,3 +206,6 @@ Contact - students@allinopensource.org
 - School: Florida Atlantic University
 - Favorite Quote: "Practice isn't the thing you do once you're good. It's the thing you do that makes you good." - Malcolm Gladwell
 ---
+- Name: Sheyla Williams Avila
+- School: University of California - Merced
+- Quote: "Never stop learning because life never stops teaching" - Kirill Korshikov
