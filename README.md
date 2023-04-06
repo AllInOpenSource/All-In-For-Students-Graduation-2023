@@ -217,3 +217,8 @@ Contact - students@allinopensource.org
 - Name: Annabelle Delacruz
 - School: Miami Dade College
 - Favorite Quote: The grass isn't always greener on the other side
+---
+- Name: Robert Evans
+- School: University of Texas at El Paso
+- Favorite Quote: "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
+---
