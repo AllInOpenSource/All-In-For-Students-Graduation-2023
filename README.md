@@ -217,3 +217,7 @@ Contact - students@allinopensource.org
 - Name: Annabelle Delacruz
 - School: Miami Dade College
 - Favorite Quote: The grass isn't always greener on the other side
+---
+- Name: Samantha Nguyen
+- School: The University of Texas at Arlington
+- Favorite Quote: "Anything worth doing is worth doing badly." - G.K. Chesterton
