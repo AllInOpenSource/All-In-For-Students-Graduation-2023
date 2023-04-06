@@ -181,3 +181,8 @@ Contact - students@allinopensource.org
 - Name: Anthony Ham
 - School: Miami Dade College
 - Favorite Quote: "A man who dares to waste one hour of time has not discovered the value of life." - Charles Darwin
+---
+- Name: Mike Allen C. De Pacina
+- School: California State University - Los Angeles
+- Favorite Quote: "The only real mistake is the one from which we learn nothing." - Henry Ford
+---
