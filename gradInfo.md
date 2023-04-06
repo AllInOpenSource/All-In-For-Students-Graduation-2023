@@ -1,0 +1,4 @@
+- Name: Donte Palmer
+- School: Clark Atlanta University
+- Favorite Quote: "One one cocoa full basket"
+---
