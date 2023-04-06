@@ -181,3 +181,24 @@ Contact - students@allinopensource.org
 - Name: Anthony Ham
 - School: Miami Dade College
 - Favorite Quote: "A man who dares to waste one hour of time has not discovered the value of life." - Charles Darwin
+---
+- Name: Mike Allen C. De Pacina
+- School: California State University - Los Angeles
+- Favorite Quote: "The only real mistake is the one from which we learn nothing." - Henry Ford
+---
+- Name: Donte Palmer
+- School: Clark Atlanta University
+- Favorite Quote: "One one cocoa full basket"
+---
+- Name: Garrett Floyd
+- School: Miami Dade College
+- Favorite Quote: "Better late than Never!"
+---
+- Name: Keren Rivera
+- School: Miami Dade College
+- Favorite Quote: "When you fall, don't stay on ground. Pick yourself up and keep going" - My father
+---
+- Name: Amrita Dhar
+- School: Wayne State University
+- Favorite Quote: "Let us make our future now, and let us make our dreams tomorrow’s reality." - Malala Yousafzai
+---
