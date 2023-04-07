@@ -245,4 +245,8 @@ Contact - students@allinopensource.org
 - Name: Debasmita Banerjee
 - School: College of Optics and Photonics, University of Central Florida
 - Favorite Quote: "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
+----
+- Name: Michael Stamler
+- School: Miami Dade College
+- Favorite Quote: "Never lose help. Storms make people stronger and never last forever." - Roy T. Bennett
 
