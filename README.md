@@ -221,4 +221,8 @@ Contact - students@allinopensource.org
 - Name: Robert Evans
 - School: University of Texas at El Paso
 - Favorite Quote: "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
-- 
+---
+- Name: Parth Sharma
+- School: University of Texas At Arlington
+- Favorite Quote: If you never shoot, you never miss
+
