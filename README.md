@@ -257,3 +257,7 @@ Contact - students@allinopensource.org
 - Name: Iris Quintero
 - School: Northeastern Illinois University
 - Favorite Quote: "Always stay true to your self, and never let anyone says distract you from your goals" - Michelle Obama
+----
+-Name: Prabhash G C
+-School: University of Louisiana Monroe
+-Favorite Quote: "Control what is in your control"
