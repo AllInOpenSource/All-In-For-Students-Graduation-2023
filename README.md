@@ -237,3 +237,8 @@ Contact - students@allinopensource.org
 - Name: Dominic Jaikaran
 - School: Jaikaran
 - Favorite Quote: -“It is better to be a warrior in a garden, than a gardener in a war.” ― Miyamoto Musashi
+---
+- Name: Aayush Acharya
+- School: Howard University
+- Favorite Quote: In your actions, don’t procrastinate. In your conversations, don’t confuse. In your thoughts, don’t wander. In your soul, don’t be passive or aggressive. In your life, don’t be all about business.
+
