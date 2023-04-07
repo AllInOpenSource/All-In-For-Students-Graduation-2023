@@ -253,4 +253,7 @@ Contact - students@allinopensource.org
 - Name: Eduardo A. Del Castillo 
 - School: Miami Dade College
 - Favorite Quote: "The Greatest Teacher Failure is." - Master Yoda
-
+----
+- Name: Iris Quintero
+- School: Northeastern Illinois University
+- Favorite Quote: "Always stay true to your self, and never let anyone says distract you from your goals" - Michelle Obama
