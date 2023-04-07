@@ -249,4 +249,8 @@ Contact - students@allinopensource.org
 - Name: Michael Stamler
 - School: Miami Dade College
 - Favorite Quote: "Never lose help. Storms make people stronger and never last forever." - Roy T. Bennett
+---
+- Name: Eduardo A. Del Castillo 
+- School: Miami Dade College
+- Favorite Quote: "The Greatest Teacher Failure is." - Master Yoda
 
