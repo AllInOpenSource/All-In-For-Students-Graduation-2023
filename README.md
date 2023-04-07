@@ -218,6 +218,31 @@ Contact - students@allinopensource.org
 - School: Miami Dade College
 - Favorite Quote: The grass isn't always greener on the other side
 ---
+- Name: Robert Evans
+- School: University of Texas at El Paso
+- Favorite Quote: "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
+---
+- Name: Parth Sharma
+- School: University of Texas At Arlington
+- Favorite Quote: If you never shoot, you never miss
+---
+- Name: Samantha Nguyen
+- School: The University of Texas at Arlington
+- Favorite Quote: "Anything worth doing is worth doing badly." - G.K. Chesterton
+---
+- Name: Kadisha Mitchell
+- School: Howard University
+- Favorite Quote: "Habits are the Compound Interest of Self Improvement." -James Clear
+---
+- Name: Dominic Jaikaran
+- School: Jaikaran
+- Favorite Quote: -“It is better to be a warrior in a garden, than a gardener in a war.” ― Miyamoto Musashi
+---
+- Name: Aayush Acharya
+- School: Howard University
+- Favorite Quote: In your actions, don’t procrastinate. In your conversations, don’t confuse. In your thoughts, don’t wander. In your soul, don’t be passive or aggressive. In your life, don’t be all about business.
+---
 - Name: Debasmita Banerjee
 - School: College of Optics and Photonics, University of Central Florida
 - Favorite Quote: "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
+
