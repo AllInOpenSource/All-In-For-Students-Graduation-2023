@@ -265,3 +265,7 @@ Contact - students@allinopensource.org
 - Name: Bryce M Cole
 - School: Borough of Manhattan Community College
 - Favorite Quote: "zsh: segmentation fault" - VSCode, this morning.
+----
+- Name: Richard Rodriguez
+- School: Miami Dade College
+- Favorite Quote: "It is what it is"
