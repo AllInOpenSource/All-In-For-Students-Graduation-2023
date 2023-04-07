@@ -217,3 +217,7 @@ Contact - students@allinopensource.org
 - Name: Annabelle Delacruz
 - School: Miami Dade College
 - Favorite Quote: The grass isn't always greener on the other side
+---
+- Name: Aayush Acharya
+- School: Howard University
+- Favorite Quote: In your actions, don’t procrastinate. In your conversations, don’t confuse. In your thoughts, don’t wander. In your soul, don’t be passive or aggressive. In your life, don’t be all about business.
