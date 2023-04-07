@@ -229,3 +229,7 @@ Contact - students@allinopensource.org
 - Name: Samantha Nguyen
 - School: The University of Texas at Arlington
 - Favorite Quote: "Anything worth doing is worth doing badly." - G.K. Chesterton
+---
+- Name: Kadisha Mitchell
+- School: Howard University
+- Favorite Quote: "Habits are the Compound Interest of Self Improvement." -James Clear
