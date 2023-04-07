@@ -218,6 +218,14 @@ Contact - students@allinopensource.org
 - School: Miami Dade College
 - Favorite Quote: The grass isn't always greener on the other side
 ---
+- Name: Robert Evans
+- School: University of Texas at El Paso
+- Favorite Quote: "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
+---
+- Name: Parth Sharma
+- School: University of Texas At Arlington
+- Favorite Quote: If you never shoot, you never miss
+---
 - Name: Samantha Nguyen
 - School: The University of Texas at Arlington
 - Favorite Quote: "Anything worth doing is worth doing badly." - G.K. Chesterton
