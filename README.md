@@ -241,4 +241,8 @@ Contact - students@allinopensource.org
 - Name: Aayush Acharya
 - School: Howard University
 - Favorite Quote: In your actions, don’t procrastinate. In your conversations, don’t confuse. In your thoughts, don’t wander. In your soul, don’t be passive or aggressive. In your life, don’t be all about business.
+---
+- Name: Debasmita Banerjee
+- School: College of Optics and Photonics, University of Central Florida
+- Favorite Quote: "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
 
