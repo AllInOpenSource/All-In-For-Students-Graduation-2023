@@ -217,3 +217,7 @@ Contact - students@allinopensource.org
 - Name: Annabelle Delacruz
 - School: Miami Dade College
 - Favorite Quote: The grass isn't always greener on the other side
+---
+- Name: Debasmita Banerjee
+- School: College of Optics and Photonics, University of Central Florida
+- Favorite Quote: "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
