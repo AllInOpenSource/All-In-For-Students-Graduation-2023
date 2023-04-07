@@ -261,3 +261,7 @@ Contact - students@allinopensource.org
 - Name: Prabhash G C
 - School: University of Louisiana Monroe
 - Favorite Quote: "Control what is in your control"
+----
+- Name: Bryce M Cole
+- School: Borough of Manhattan Community College
+- Favorite Quote: "zsh: segmentation fault" - VSCode, this morning.
