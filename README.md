@@ -269,3 +269,7 @@ Contact - students@allinopensource.org
 - Name: Richard Rodriguez
 - School: Miami Dade College
 - Favorite Quote: "It is what it is"
+----
+- Name: Vera Dureke
+- School: Eastern Gateway Community College 
+- Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
