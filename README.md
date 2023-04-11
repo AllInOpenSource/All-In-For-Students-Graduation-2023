@@ -235,7 +235,7 @@ Contact - students@allinopensource.org
 - Favorite Quote: "Habits are the Compound Interest of Self Improvement." -James Clear
 ---
 - Name: Dominic Jaikaran
-- School: Jaikaran
+- School: University of San Francisco
 - Favorite Quote: -“It is better to be a warrior in a garden, than a gardener in a war.” ― Miyamoto Musashi
 ---
 - Name: Aayush Acharya
