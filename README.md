@@ -273,3 +273,7 @@ Contact - students@allinopensource.org
 - Name: Vera Dureke
 - School: Eastern Gateway Community College 
 - Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
+----
+- Name: Amos  Ayomide 
+- School: Lagos State University - Nigeria
+- Quote: "“Don’t wait. The time will never be just right.”
