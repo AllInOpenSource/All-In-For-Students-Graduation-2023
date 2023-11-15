@@ -273,3 +273,8 @@ Contact - students@allinopensource.org
 - Name: Vera Dureke
 - School: Eastern Gateway Community College 
 - Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
+
+----
+- Name: Musa Abdulkabir
+- School: Islamic Model College 
+- Favorite Quote: “The mass of men lead lives of quiet desperation” -Henry David Thoreau
