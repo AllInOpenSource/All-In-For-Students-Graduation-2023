@@ -273,3 +273,8 @@ Contact - students@allinopensource.org
 - Name: Vera Dureke
 - School: Eastern Gateway Community College 
 - Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
+----
+- Name: Dário Prazeres
+- School: University Of Luanda 
+- Favorite Quote: “insanity is doing the same thing over and over again and expecting different results” - Albert Einstein
+---
