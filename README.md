@@ -21,8 +21,6 @@ Here are two required steps to officially be recognized as a participant of the 
   - Favorite Quote: The way to get started is to quit talking and begin doing. -Walt Disney
 
 _**Submissions are due Friday, March 31, 2023.**_ 
-    
----
 
 ## Graduation Day 🎓
 
@@ -273,3 +271,8 @@ Contact - students@allinopensource.org
 - Name: Vera Dureke
 - School: Eastern Gateway Community College 
 - Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
+----
+- Name: Jephthah Senu
+- School: Oneflowlabs University
+- Favorite Quote: Viva La Vida -JFS
+----
