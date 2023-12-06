@@ -162,7 +162,7 @@ Contact - students@allinopensource.org
 - School: University of Florida
 - Favorite Quote: "If you only do what you can do, you will never be more than you are now." - Master Shifu
 ---
-- Name: Khan (KoiDev)
+- Name: Khan
 - School: Houston Community College
 - Favorite Quote: "The expert at anything was once a beginner" - Helen Hayes
 ---
