@@ -273,3 +273,8 @@ Contact - students@allinopensource.org
 - Name: Vera Dureke
 - School: Eastern Gateway Community College 
 - Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
+----
+- Name: Jerry Onyango
+- School: Pomona College 
+- Favorite Quote: "Now you see me, now you dont" IDK
+---
